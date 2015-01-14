@@ -1,2 +1,8 @@
 # hello-world
-Test repository
+
+## Hello Humans!
+
+I'm testing GitHub right now. Looks pretty cool!
+
+Cheers,
+Fredy
